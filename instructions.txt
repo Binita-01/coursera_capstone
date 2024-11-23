@@ -1,0 +1,6 @@
+Skills Network Labs (SN Labs) is a virtual lab environment used in this course. Upon clicking the "Launch App" button below, your Username and Email will be passed to SN Labs and will be used in strict accordance with IBM Skills Network Privacy policy, such as for communicating important information to enhance your learning experience.
+Once you complete the lab you can download the notebook as follows:
+  Select the notebook which is displayed in the left Navigation pane.
+  Right  click on it and click on the Download option.
+  Your notebook gets downloaded
+can also upload to github later. 
